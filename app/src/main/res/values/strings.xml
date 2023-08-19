@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fv</string>
+    <string name="hl">Поздравляем</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="number">0</string>
+</resources>
